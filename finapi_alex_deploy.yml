@@ -16,7 +16,7 @@ variables:
   - name: resourceGroup
     value: 'Training-Student-001'          # <-- Update this
   - name: webAppName
-    value: ' finapi-alex'                  # <-- Update this Azure Web App target
+    value: 'finapi-alex'                  # <-- Update this Azure Web App target
 
 steps:
 - script: |
