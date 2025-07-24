@@ -8,7 +8,7 @@ variables:
   - name: projectName
     value: 'Training-Student-001'              # <-- Update this
   - name: buildPipelineName
-    value: 'finapi_chris_build'       # <-- Update this
+    value: 'finapi_alex_build'       # <-- Update this
   - name: artifactName
     value: 'api'
   - name: targetFile
